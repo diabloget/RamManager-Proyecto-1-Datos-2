@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/diabloget/CLionProjects/RamManager/Instruction.h
+iostream
+-
+
+/home/diabloget/CLionProjects/RamManager/JsonManager.h
+MemoryObject.h
+/home/diabloget/CLionProjects/RamManager/MemoryObject.h
+Instruction.h
+/home/diabloget/CLionProjects/RamManager/Instruction.h
+
+/home/diabloget/CLionProjects/RamManager/Memory.cpp
+Memory.h
+/home/diabloget/CLionProjects/RamManager/Memory.h
+
+/home/diabloget/CLionProjects/RamManager/Memory.h
+vector
+-
+iostream
+/home/diabloget/CLionProjects/RamManager/iostream
+MemoryObject.h
+/home/diabloget/CLionProjects/RamManager/MemoryObject.h
+Instruction.h
+/home/diabloget/CLionProjects/RamManager/Instruction.h
+cstring
+-
+Instruction.h
+/home/diabloget/CLionProjects/RamManager/Instruction.h
+JsonManager.h
+/home/diabloget/CLionProjects/RamManager/JsonManager.h
+
+/home/diabloget/CLionProjects/RamManager/MemoryObject.h
+iostream
+/home/diabloget/CLionProjects/RamManager/iostream
+
